@@ -1,1 +1,2 @@
-<?php echo "Hello EVM" ?>
+<?php echo "Hello EVM";
+echo "Welcome"; ?>
